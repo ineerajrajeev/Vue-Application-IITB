@@ -16,7 +16,7 @@ This README provides instructions for setting up and running the Vue web applica
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- [Demo video Link (Google Drive)](https://drive.google.com/file/d/11rE5WDDYCnxCOn3JtvigFXOyJKecBCaY/view?usp=sharing)
+- Demo video Link [(Google Drive)](https://drive.google.com/file/d/11rE5WDDYCnxCOn3JtvigFXOyJKecBCaY/view?usp=sharing)
 - [Docker Image](https://hub.docker.com/repository/docker/ineerajrajeev/iitb-vue-app/general)
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/) or your preferred choice.
